@@ -22,7 +22,6 @@ public class Uppercase {
     }
     public static void main(String[] args) {
         toUpperCase('a');
-        toUpperCase('B');
     }
 }
 
